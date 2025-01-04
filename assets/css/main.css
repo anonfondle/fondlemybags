@@ -2220,7 +2220,7 @@ input, select, textarea {
 				color: inherit;
 			}
 
-		#header .button {
+/*		#header .button {
 			display: inline-block;
 			border-radius: 100%;
 			width: 4.5em;
@@ -2229,7 +2229,7 @@ input, select, textarea {
 			text-align: center;
 			font-size: 1.25em;
 			padding: 0;
-		}
+		}*/
 
 		#header hr {
 			top: 1.5em;
